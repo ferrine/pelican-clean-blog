@@ -1,8 +1,10 @@
 # Pelican Clean Blog Theme
 
+
 Theme based in [Clean Blog layout](https://github.com/BlackrockDigital/startbootstrap-clean-blog).
 
 >:warning: This theme requires Pelican 4.0.0 or newer.
+>:warning: This theme is adopted for https://github.com/ferrine/ferrine.github.io.
 
 ## Screenshot
 
